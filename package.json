@@ -1,0 +1,15 @@
+{
+  "name": "weeka",
+  "version": "1.0.0",
+  "description": "Learning Java",
+  "main": "sample.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Quijano",
+  "license": "ISC",
+  "prettier": {
+    "singleQuote": true
+  }
+}
